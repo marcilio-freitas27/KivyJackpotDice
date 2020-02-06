@@ -1,0 +1,2 @@
+# KivyJackpotDice
+Kivy Jackpot Dice
